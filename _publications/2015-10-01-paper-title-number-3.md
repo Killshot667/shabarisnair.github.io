@@ -1,16 +1,20 @@
 ---
-title: "Improving Rare-Word Recognition Of Whisper In Zero-Shot Settings"
+title: "Concept drift detection in toxicology datasets using discriminative subgraph-based drift detector"
 collection: publications
-category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
+category: journals
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2024-10-01
-venue: 'Spoken Language Technology'24'
+date: 2022-12-03
+venue: "Briefings in Bioinformatics'23"
 status: "Published"
-# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://killshot667.github.io/shabarisnair.github.io/files/SLT_2024.pdf'
-citation: 'Yash Jogi, Vaibhav Aggarwal, Shabari S Nair, Yash Verma, Aayush Kubba'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://killshot667.github.io/shabarisnair.github.io/files/concept.pdf'
+citation: 'Vandana Bharti, Shabari S Nair, Akshat Jain, Kaushal Kumar Shukla, Bhaskar Biswas'
 ---
 
-Whisper, despite being trained on 680K hours of web-scaled audio data, faces difficulty in recognizing rare words like domain-specific terms, with a solution being contextual bias- ing through prompting. To improve upon this method, in this
-paper, we propose a supervised learning strategy to fine-tune Whisper for contextual biasing instruction. We demonstrate that by using only 670 hours of Common Voice English set for fine-tuning, our model generalizes to 11 diverse open- source English datasets, achieving a 45.6% improvement in recognition of rare words and 60.8% improvement in recognition of words unseen during fine-tuning over the baseline method. Surprisingly, our model’s contextual biasing ability generalizes even to languages unseen during fine-tuning.
+Due to the increasing importance of graphs and graph streams in data representation in today’s era, concept drift detection in graph
+streaming scenarios is more important than ever. Contributions to concept drift detection in graph streams are minimal and practically
+non-existent in the field of toxicology. This paper applied the discriminative subgraph-based drift detector (DSDD) to graph streams
+generated from real-world toxicology datasets. We used four toxicology datasets, each of which yielded two graph streams – one with
+abrupt drift points and one with gradual drift points.We used DSDD both with the standard minimum description length (MDL) heuristic
+and after replacing MDL with a much simpler heuristic SIZE (number of vertices + number of edges), and applied it to all generated graph-streams containing abrupt drift points and gradual drift points for varying window sizes. Following that, we compared and analyzed the results. Finally, we applied a long short-term memory based graph stream classification model to all the generated streams and compared the difference in the performances obtained with and without detecting drift using DSDD. We believe that the results and analysis presented in this paper will provide insight into the task of concept drift detection in the toxicology domain and aid in the application of DSDD in a variety of scenarios.
