@@ -2,12 +2,12 @@
 title: "Adopting Whisper For Confidence Estimation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-09-12-conference-2
 excerpt: ''
 date: 2024-12-03
 venue: "ICASSP '25"
-status: "Published"
+status: "Under Review"
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'https://killshot667.github.io/shabarisnair.github.io/files/concept.pdf'
-citation: 'Vaibhav Aggarwal, Shabari S Nair, Yash Verma, Yash Jogi'
+citation: 'Vaibhav Aggarwal*, Shabari S Nair*, Yash Verma*, Yash Jogi'
 ---
