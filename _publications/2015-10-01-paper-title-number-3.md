@@ -1,7 +1,7 @@
 ---
 title: "Concept drift detection in toxicology datasets using discriminative subgraph-based drift detector"
 collection: publications
-category: journals
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2022-12-03
