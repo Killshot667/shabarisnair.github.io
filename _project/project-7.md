@@ -1,18 +1,19 @@
 ---
-title: "Graph Search Algorithms Visualizer"
+title: "Employee Management Web App"
 excerpt: |
-  Interactive tools for creating custom graphs on a grid, and visualizing the working of four popular graph search algorithms - Depth-first, Breadth-first, Dijikastra,A*
+  Web app to ease the management of employee data by companies and facilitate purposes like employee data management, managing leave applications etc",
   <br><br>
-  <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
+  <a href="https://github.com/Killshot667/employee-management" class="btn btn-primary">CODE</a> &nbsp; <a href="https://docs.google.com/presentation/d/1e6JcPFif7o9UyJXZXB7paNnhqND9Kf2f/edit?usp=sharing&ouid=112819980529602882070&rtpof=true&sd=true" class="btn btn-primary">DOC</a>
 collection: project
 ---
 
-- Interactive tool using pygame that you can run locally to understand and play around with graph search algorithms
-- Supports Depth-first, Breadth-first, Dijikastra, and A*
-- From the grid, you can choose your starting and ending point and then select the cells where you want to add an obstruction, then click spacebar to run
+- Web app to ease the management of employee data by companies
+-  Different companies can use it to register themselves and their employess, upon which it can be used for a variety of purposes like employee data management, managing leave applications etc
+- HTML/CSS/Vanilla JS for frontend, Django for backend, and MySQL for database
 <!-- <br> -->
 <!-- ![Graph Image](assets/images/graph.jpeg) -->
 <br><br>
-<a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
+<a href="https://github.com/Killshot667/employee-management" class="btn btn-primary">CODE</a> &nbsp; <a href="https://docs.google.com/presentation/d/1e6JcPFif7o9UyJXZXB7paNnhqND9Kf2f/edit?usp=sharing&ouid=112819980529602882070&rtpof=true&sd=true" class="btn btn-primary">DOC</a>
+
 
 
