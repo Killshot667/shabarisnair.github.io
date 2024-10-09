@@ -1,14 +1,18 @@
 ---
 title: "project item number 1"
 excerpt: |
-  Short description of project item number 1
-  - hello
-  - world
-  <a href="https://example.com" class="btn btn-primary">Button Text</a>
+  Interactive tools for creating custom graphs on a grid, and visualizing the working of four popular graph search algorithms - Depth-first, Breadth-first, Dijikastra,A*
+  <br>
+  <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">Code</a>
 collection: project
 ---
 
-This is an item in your project. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-- how
-- are
-- you
+- Built an interactive tool using pygame that you can run locally to understand and play around with graph search algorithms
+- Supports Depth-first, Breadth-first, Dijikastra, and A*
+- From the grid, you can choose your starting and ending point and then select the cells where you want to add an obstruction, then click spacebar to run
+<br>
+![Graph Image](../assets/images/graph.jpeg)
+<br>
+<a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
+
+
