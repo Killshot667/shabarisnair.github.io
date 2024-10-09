@@ -12,10 +12,14 @@ collection: project
 - From the grid, you can choose your starting and ending point and then select the cells where you want to add an obstruction, then click spacebar to run
 <br>
 <br>
-<video class = "center" width="320" height="240" controls>
-  <source src="https://killshot667.github.io/shabarisnair.github.io/assets/videos/robota1.mp4" type="video/mp4">
-</video>
-<br><br>
-<a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <video width="320" height="240" controls>
+    <source src="https://killshot667.github.io/shabarisnair.github.io/assets/videos/robota1.mp4" type="video/mp4">
+  </video>
+
+  <video width="320" height="240" controls>
+    <source src="https://killshot667.github.io/shabarisnair.github.io/assets/videos/robota2.mp4" type="video/mp4">
+  </video>
+</div>
 
