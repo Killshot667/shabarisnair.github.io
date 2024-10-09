@@ -1,18 +1,15 @@
 ---
-title: "Autonomous Bot Based On Image processing And Dijikastra Algorithm"
+title: "Autonomous Line Following Robot Using Arduino"
 excerpt: |
-  Automatic Bot designed to process and analyze the video feed from a given grid, and utlize image processing techniques and the Dijikastra algorithm to move certain boxes from one location to another using the optimal path. Submission for Technex'2020 competition of IIT BHU
-  <br><br>
-  <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
+  Automatic 4-wheeled bot designed to follow white lines and stop at obstacles. Team project undertaken as part of Robota'19 contest at IIT BHU 
 collection: project
 ---
 
-- Interactive tool using pygame that you can run locally to understand and play around with graph search algorithms
-- Supports Depth-first, Breadth-first, Dijikastra, and A*
-- From the grid, you can choose your starting and ending point and then select the cells where you want to add an obstruction, then click spacebar to run
+- Automatic 4-wheeled bot programmed using Arduino to follow white lines and stop at obstacles and swtich to manual control
+- Infrared sensors (5) used for white line and obstacle detection
+- Team project undertaken as part of Robota'19 contest at IIT BHU
 <br>
 <br>
-
 <div style="display: flex; justify-content: center; gap: 20px;">
   <video width="320" height="240" controls>
     <source src="https://killshot667.github.io/shabarisnair.github.io/assets/videos/robota1.mp4" type="video/mp4">
