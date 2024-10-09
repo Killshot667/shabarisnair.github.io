@@ -1,8 +1,10 @@
 ---
 title: "project item number 1"
-excerpt: "Short description of project item number 1
-- hello
-- world"
+excerpt: |
+  Short description of project item number 1
+  - hello
+  - world
+  <a href="https://example.com" class="btn btn-primary">Button Text</a>
 collection: project
 ---
 
