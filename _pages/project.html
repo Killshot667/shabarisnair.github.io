@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "project"
+permalink: /project/
+author_profile: true
+---
+
+<a>This is a list of some of my selected personal and academic projects</a>
+
+{% include base_path %}
+
+
+{% for post in site.project %}
+  {% include archive-single.html %}
+{% endfor %}
+
