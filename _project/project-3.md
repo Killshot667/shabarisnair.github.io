@@ -1,7 +1,7 @@
 ---
-title: "Graph Search Algorithms Visualizer"
+title: "Autonomous Bot Based On Image processing And Dijikastra Algorithm"
 excerpt: |
-  Interactive tools for creating custom graphs on a grid, and visualizing the working of four popular graph search algorithms - Depth-first, Breadth-first, Dijikastra,A*
+  Automatic Bot designed to process and analyze the video feed from a given grid, and utlize image processing techniques and the Dijikastra algorithm to move certain boxes from one location to another using the optimal path. Submission for Technex'2020 competition of IIT BHU
   <br><br>
   <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
 collection: project
