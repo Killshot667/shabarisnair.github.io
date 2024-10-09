@@ -7,14 +7,12 @@ excerpt: |
 collection: project
 ---
 
-- Interactive tool using pygame that you can run locally to understand and play around with graph search algorithms
+- Interactive tool using pygame that you can run locally to visualize, understand and play around with graph search algorithms
 - Supports Depth-first, Breadth-first, Dijikastra, and A*
 - From the grid, you can choose your starting and ending point and then select the cells where you want to add an obstruction, then click spacebar to run
-<br>
-<img src="https://killshot667.github.io/shabarisnair.github.io/assets/images/graph.jpeg" alt="graph" width="200"/>
+<br><br>
+<img src="https://killshot667.github.io/shabarisnair.github.io/assets/images/graph.jpeg" alt="graph" width="500" class="center"/>
 
 <!-- ![Graph Image](https://killshot667.github.io/shabarisnair.github.io/assets/images/graph.jpeg) -->
 <br><br>
 <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
-
-
