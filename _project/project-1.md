@@ -1,7 +1,6 @@
 ---
 title: "Graph Search Algorithms Visualizer"
 excerpt: |
-<div style='display: flex; align-items: center; justify-content: space-between;'>
   Interactive tools for creating custom graphs on a grid, and visualizing the working of four popular graph search algorithms - Depth-first, Breadth-first, Dijikastra and A*
   <br><br>
   <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>

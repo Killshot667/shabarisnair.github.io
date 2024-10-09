@@ -1,18 +1,16 @@
 ---
-title: "Graph Search Algorithms Visualizer"
+title: "AI-Enabled Doctor Consultation Platform"
 excerpt: |
-  Interactive tools for creating custom graphs on a grid, and visualizing the working of four popular graph search algorithms - Depth-first, Breadth-first, Dijikastra,A*
+  Online platform for self diagnosis of deseases based on input symptoms using a Naive Bayes powered model, along with connecting patients with nearby doctors of their choice based on factors like speciality and proximity. 
   <br><br>
-  <a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
+  <a href="https://github.com/akshatjai258/Doctor-Consultation-App" class="btn btn-primary">CODE</a> &nbsp; <a href="https://docs.google.com/presentation/d/1rB_BAW5_9PeCt-c2RPqBCyBJctiq27Q6owt_gX1PRfI/edit?usp=sharing" class="btn btn-primary">DOC</a>
 collection: project
 ---
 
-- Interactive tool using pygame that you can run locally to understand and play around with graph search algorithms
-- Supports Depth-first, Breadth-first, Dijikastra, and A*
-- From the grid, you can choose your starting and ending point and then select the cells where you want to add an obstruction, then click spacebar to run
-<!-- <br> -->
-<!-- ![Graph Image](assets/images/graph.jpeg) -->
+- Online platform for connecting patients with nearby doctors of their choice based on factors like speciality and proximity. Additionaly, one can also perform self diagnosis using an Naive Bayes powered model trained to take symptoms as input and outut the probable ailment",
+
 <br><br>
-<a href="https://github.com/Killshot667/graph-search-algorithms" class="btn btn-primary">CODE</a>
+<a href="https://github.com/akshatjai258/Doctor-Consultation-App" class="btn btn-primary">CODE</a> &nbsp; <a href="https://docs.google.com/presentation/d/1rB_BAW5_9PeCt-c2RPqBCyBJctiq27Q6owt_gX1PRfI/edit?usp=sharing" class="btn btn-primary">DOC</a>
+
 
 
