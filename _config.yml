@@ -224,7 +224,7 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  experience:
+  experiences:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -279,10 +279,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _experience
+  # _experiences
   - scope:
       path: ""
-      type: experience
+      type: experiences
     values:
       layout: single
       author_profile: true

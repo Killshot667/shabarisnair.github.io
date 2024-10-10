@@ -1,8 +1,8 @@
 ---
 title: "Sprinklr"
-collection: experience
+collection: experiences
 category: professional
-permalink: /experience/sprinklr-2
+permalink: /experiences/sprinklr-2
 excerpt: ''
 # date: 2022-12-03
 # venue: "Briefings in Bioinformatics'23"
