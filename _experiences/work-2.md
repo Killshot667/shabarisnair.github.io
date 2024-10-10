@@ -2,7 +2,7 @@
 title: "Sprinklr"
 collection: experiences
 category: professional
-permalink: /experiences/work-2
+# permalink: /experiences/work-2
 # date: 2022-12-03
 # venue: "Briefings in Bioinformatics'23"
 # status: "Published"
@@ -11,7 +11,10 @@ permalink: /experiences/work-2
 # citation: 'Vandana Bharti, Shabari S Nair, Akshat Jain, Kaushal Kumar Shukla, Bhaskar Biswas'
 ---
 
-<h3>AI Product Engineer - Voice Team &nbsp; &nbsp; &nbsp; July 2023 - Present</h3>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span><strong>AI Product Engineer - Voice Team</strong></span>
+  <span>July 2023 - Present</span>
+</div>
 
 - Worked on optimization and maintainance of deployment pipelines of Text-to-Speech (TTS) and
 Automatic Speech Recognition (ASR) services.
