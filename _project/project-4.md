@@ -1,28 +1,19 @@
 ---
-title: "Autonomous Bot Simulation Using Image Processing and A* Algorithm"
+title: "Employee Management Web App"
 excerpt: |
-  An autonomous bot simulation done using PyBullet for finding the shortest path in a complicated environment, given its live video feed (processed via OpenCV) using the A* graph search algorithm. Team project undertaken as part of Pixelate'22 competition in Technex'22 at IIT BHU
+  Web app to ease the management of employee data by companies and facilitate purposes like employee data management, managing leave applications etc",
   <br><br>
-  <a href="https://github.com/milind-prajapat/Pixelate" class="btn btn-primary">CODE</a> &nbsp; <a href="https://killshot667.github.io/shabarisnair.github.io/assets/docs/Pixelate_problem.pdf" class="btn btn-primary">PROBLEM STATEMENT</a>
+  <a href="https://github.com/Killshot667/employee-management" class="btn btn-primary">CODE</a> &nbsp; <a href="https://docs.google.com/presentation/d/1e6JcPFif7o9UyJXZXB7paNnhqND9Kf2f/edit?usp=sharing&ouid=112819980529602882070&rtpof=true&sd=true" class="btn btn-primary">DOC</a>
 collection: project
 ---
 
-- Autonomous bot simulation done for finding the shortest path in a complicated environment, given its live video feed
-- Visual representation of the arena and the bot movements were done using PyBullet
-- Image processing techniques using OpenCV were used to manipulate the data, i.e., shape, colour and aruco marker detection in the programmable form
-- A* graph search algorithm used to determine the shortest path to reach the destination node
-- The program also supports manual override to run the bot
-- Team project undertaken as part of Pixelate'22 competition in Technex'22 at IIT BHU
-
+- Web app to ease the management of employee data by companies
+-  Different companies can use it to register themselves and their employess, upon which it can be used for a variety of purposes like employee data management, managing leave applications etc
+- HTML/CSS/Vanilla JS for frontend, Django for backend, and MySQL for database
+<!-- <br> -->
+<!-- ![Graph Image](assets/images/graph.jpeg) -->
 <br><br>
-<a href="https://github.com/milind-prajapat/Pixelate" class="btn btn-primary">CODE</a> &nbsp; <a href="https://killshot667.github.io/shabarisnair.github.io/assets/docs/Pixelate_problem.pdf" class="btn btn-primary">PROBLEM STATEMENT</a>
+<a href="https://github.com/Killshot667/employee-management" class="btn btn-primary">CODE</a> &nbsp; <a href="https://docs.google.com/presentation/d/1e6JcPFif7o9UyJXZXB7paNnhqND9Kf2f/edit?usp=sharing&ouid=112819980529602882070&rtpof=true&sd=true" class="btn btn-primary">DOC</a>
 
-<br><br>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <video width="320" height="240" controls>
-    <source src="https://killshot667.github.io/shabarisnair.github.io/assets/videos/Pixelate_video.mp4" type="video/mp4">
-  </video>
-</div>
 
 
