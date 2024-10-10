@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
 
-<!-- {% if site.author.googlescholar %} -->
-Here is a list of my research publications
-<!-- {% endif %} -->
+
+This is a list of my recent professional and research experiences
 
 {% include base_path %}
 
@@ -15,7 +14,7 @@ Here is a list of my research publications
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in site.experiences reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -27,7 +26,7 @@ Here is a list of my research publications
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% for post in site.experiences reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
