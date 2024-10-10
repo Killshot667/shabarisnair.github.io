@@ -12,7 +12,7 @@ permalink: /experiences/work-2
 # citation: 'Vandana Bharti, Shabari S Nair, Akshat Jain, Kaushal Kumar Shukla, Bhaskar Biswas'
 ---
 
-### AI Product Engineer - Voice Team
+### AI Product Engineer - Voice Team &nbsp; &nbsp; &nbsp; July 2023 - Present
 
 - Worked on optimization and maintainance of deployment pipelines of Text-to-Speech (TTS) and
 Automatic Speech Recognition (ASR) services.
