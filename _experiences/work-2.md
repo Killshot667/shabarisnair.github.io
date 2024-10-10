@@ -14,9 +14,8 @@ excerpt: |
     - Trained and deployed the first multilingual TTS model which is the primary inhouse TTS currently being used.
     - Core member of the Voice Research team where I worked on problems like contextual biasing in ASR systems, zero-shot adaption
     of ASR using prompting, and confidence estimation, and published papers in the same [[paper 1]](https://killshot667.github.io/shabarisnair.github.io/publication/2024-06-30-conference-1), [[paper 2]](https://killshot667.github.io/shabarisnair.github.io/publication/2024-09-12-conference-2)
-    - Spearheaded the ASR latency optimization track and implemented infrastructural solutions to boost latency of existing models by 3-4 times.
+    - Spearheaded the ASR latency optimization track and implemented infrastructural solutions to boost latency of existing models by 3-4x.
     - Peformed independent research on streaming speech recognition to bring down the latency of prior solution by 50%.
-    - Trained and deployed the first multilingual TTS model which is the primary inhouse TTS currently being used.
 # permalink: /experiences/work-2
 # date: 2022-12-03
 # venue: "Briefings in Bioinformatics'23"
@@ -37,6 +36,5 @@ Automatic Speech Recognition (ASR) services.
 - Trained and deployed the first multilingual TTS model which is the primary inhouse TTS currently being used.
 - Core member of the Voice Research team where I worked on problems like contextual biasing in ASR systems, zero-shot adaption
 of ASR using prompting, and confidence estimation, and published papers in the same [[paper 1]](https://killshot667.github.io/shabarisnair.github.io/publication/2024-06-30-conference-1), [[paper 2]](https://killshot667.github.io/shabarisnair.github.io/publication/2024-09-12-conference-2)
-- Spearheaded the ASR latency optimization track and implemented infrastructural solutions to boost latency of existing models by 3-4 times.
+- Spearheaded the ASR latency optimization track and implemented infrastructural solutions to boost latency of existing models by 3-4x.
 - Peformed independent research on streaming speech recognition to bring down the latency of prior solution by 50%.
-- Trained and deployed the first multilingual TTS model which is the primary inhouse TTS currently being used.

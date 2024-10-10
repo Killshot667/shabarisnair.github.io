@@ -31,4 +31,7 @@ excerpt: |
   <span>May 2022 - July 2022</span>
 </div>
 
-- Performed independent research on the topic of Structured Sentiment Analysis 
+- Performed independent research on the topic of Structured Sentiment Analysis. [[refer]](https://aclanthology.org/2022.semeval-1.180.pdf)
+- Implemented modular (splitting the main task into sub tasks) and dependency-graph (end-to-end model) based models
+- Optimized the dependency-graoh based model using LLMs like XLM-RoBERTa for better word embeddings and data augmentation, leading to a 15% average improvement over the baseline across 7 datasets in 5 languages
+- Adapted the model to work for Asian languages such as Mandarin, as well as for sarcastic texts, via Multitask learning
