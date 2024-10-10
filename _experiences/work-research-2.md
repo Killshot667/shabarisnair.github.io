@@ -1,7 +1,7 @@
 ---
 title: "GotIIT"
 collection: experiences
-category: professional
+category: research
 excerpt: |
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <span><strong>Flutter Developer Intern</strong></span>
