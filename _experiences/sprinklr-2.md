@@ -1,9 +1,9 @@
 ---
 title: "Sprinklr"
-collection: publications
+collection: experience
 category: professional
 permalink: /experience/sprinklr-2
-# excerpt: ''
+excerpt: ''
 # date: 2022-12-03
 # venue: "Briefings in Bioinformatics'23"
 # status: "Published"
