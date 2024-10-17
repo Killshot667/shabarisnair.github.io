@@ -3,10 +3,10 @@ title: "Sprinklr"
 collection: experiences
 category: professional
 excerpt: |
-    <div style='display: flex; justify-content: space-between; align-items: center;'>
-    <span><strong>AI Product Engineer - Voice Team</strong></span>
-    <span>July 2023 - Present</span>
-    </div>
+  <div style='display: flex; justify-content: space-between; align-items: center;'>
+  <span><strong>AI Product Engineer - Voice Team</strong></span>
+  <span>July 2023 - Present</span>
+  </div>
 
   - Worked on optimization and maintainance of deployment pipelines of Text-to-Speech (TTS) and
   Automatic Speech Recognition (ASR) services.
