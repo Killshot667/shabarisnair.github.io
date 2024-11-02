@@ -20,7 +20,7 @@ excerpt: |
   <span>January 2021 - May 2021</span>
   </div>
   
-  - Conducted study on the occurance and detection of concept drift in graph streams
+  - Conducted study on the occurrence and detection of concept drift in graph streams
   - Analyzed new trends and insights in the application of a SOTA graph stream drift detection technique - Discriminative Subgraph Based Drift Detector (DSDD), to gradual and abrupt concept drifts present in graph stream data in the domain of toxicology
   - Proved the impact of drift detection in toxicology datasets by obtaining a 27% boost in graph classification accuracy
   when adapting a new LSTM-based graph classification model to the detected drifts, compared to when not adapted
