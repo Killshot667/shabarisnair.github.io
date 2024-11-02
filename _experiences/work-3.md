@@ -13,7 +13,7 @@ excerpt: |
   recognition models like SlowFast, R(2+1)D, C3D, and DB-LSTM, during inference on benchmark datasets
   - Integrated the keyframe extraction method into an efficient HAR pipeline consisting of person detection (Yolov7) and
   tracking (StrongSORT), for activity recognition (SlowFast) of individual persons in a surveillance video feed
-  - Evaluated the pipeline on a custom made dataset using the dapartment surveillance cameras
+  - Evaluated the pipeline on a custom-made dataset using the department surveillance cameras
 
   <div style='display: flex; justify-content: space-between; align-items: center;'>
   <span><strong>Student Researcher under Prof. Kaushal Kumar Shukla</strong></span>
